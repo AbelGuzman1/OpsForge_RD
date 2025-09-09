@@ -1,8 +1,0 @@
-﻿<svg width="40" height="40" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background circle -->
-  <circle cx="128" cy="128" r="120" fill="#EE0000"/>
-  <!-- Ansible A logo -->
-  <path d="M128 60 L85 180 L105 180 L115 155 L141 155 L128 90 L170 180 L190 180 L128 60 Z" fill="white"/>
-  <!-- Triangle cutout -->
-  <path d="M128 120 L138 145 L118 145 Z" fill="#EE0000"/>
-</svg>
